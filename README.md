@@ -34,7 +34,7 @@ final_project/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Kiraneswar/Prompt-Injection-Detector.git
+git clone https://github.com/Abdulbasith0512/PromptShield.git
 cd Prompt-Injection-Detector
 ```
 
@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact 📧
 
 - Kiraneswar
-- GitHub: [@Kiraneswar](https://github.com/Kiraneswar)
+- GitHub: [@Abdul Basith](https://github.com/Abdulbasith0512)
 
 ---
 
